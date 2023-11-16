@@ -3,7 +3,7 @@
 ## Integrantes do grupo 
 [Liste o nome completo de todos os integrantes do grupo com seus respectivos e-mails]
  * Ana Beatriz Vieira Santos Silva - Beatriz.vieira@ufrpe.br - Beatriz0103s@gmail.com
- *  Luiz Gonzaga de Souza Silva 
+ *  Luiz Gonzaga de Souza Silva - gonzagaluiz931@outlook.com
 
 ## Descrição geral do projeto 
 Qual a principal funcionalidade do seu sistema? 
