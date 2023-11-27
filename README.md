@@ -32,19 +32,3 @@ Qual a principal funcionalidade do seu sistema?
 * **REQ8** -  Histórico de Atividades: Mantém um histórico das atividades concluídas, permitindo que os usuários revisem suas conquistas e visualizem seu progresso ao longo do tempo.
 * **REQ9** -  Estatísticas de Produtividade: Fornece estatísticas e gráficos que mostram o tempo médio gasto em tarefas, número de tarefas concluídas, entre outros, para análise do desempenho.
 * **REQ10** - Compartilhamento de Tarefas: Adiciona a capacidade de compartilhar tarefas com outros usuários, facilitando a colaboração em projetos ou a delegação de responsabilidades.
-
-## Classes Java Iniciais:
-*	Task (Tarefa):
-Atributos: ID, descrição, data de início, data limite, status, categoria, prioridade.
-Métodos: Criar, atualizar, excluir, definir status.
-*	User (Usuário):
-Atributos: ID, nome de usuário, senha, preferências de notificação.
-Métodos: Autenticar, gerenciar tarefas, visualizar estatísticas.
-*	NotificationService (Serviço de Notificação):
-Métodos: Enviar notificações de prazo.
-*	TaskManager (Gerenciador de Tarefas):
-Métodos: CRUD de tarefas, gerar relatórios estatísticos, integrar com o calendário.
-*	TaskHistory (Histórico de Tarefas):
-Métodos: Registrar tarefas concluídas, recuperar histórico.
-
-
