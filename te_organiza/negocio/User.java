@@ -16,8 +16,40 @@ public class User {
         this.password = password;
         this.tasks = new ArrayList<>();
     }
+// Getters e setters
+    public int getId() {
+        return id;
+    }
 
-    // Getters e setters
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public String getUsername() {
+        return username;
+    }
+
+    public void setUsername(String username) {
+        this.username = username;
+    }
+
+    public String getPassword() {
+        return password;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
+
+    public List<Task> getTasks() {
+        return tasks;
+    }
+
+    public void setTasks(List<Task> tasks) {
+        this.tasks = tasks;
+    }
+
+    
    
     
 }
